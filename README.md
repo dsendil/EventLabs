@@ -1,6 +1,6 @@
 ![](common/images/customer.logo2.png)
 ---
-# ORACLE Cloud Test Drive - NL OUG Edition#
+# ORACLE Cloud Test Drive - NL OUG Edition #
 
 ## Introduction ##
 
