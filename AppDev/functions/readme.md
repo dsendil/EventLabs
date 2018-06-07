@@ -23,18 +23,14 @@ As multiple participants will be using the same Fn server, you first have to
 create a "personal" directory, then cd into it.  So if you are for example "user01", type the following:
 
 >`mkdir user01`
+
 > `cd user01`
-
-
-Let's start by creating a new function.  In a terminal type the
-following and note the runtime value is **java8**, not just java.  "java"
-defaults to Java 9 but this lab uses Java 8.
 
 >`mkdir javafn`
 
 > `cd javafn`
 
->`fn init --runtime java8`
+>`fn init --runtime java`
 
 The output will be:
 ```sh
@@ -45,7 +41,7 @@ The output will be:
      / __/ / / / /
     /_/   /_/ /_/
 
-Runtime: java8
+Runtime: java
 Function boilerplate generated.
 func.yaml created.
 ```
